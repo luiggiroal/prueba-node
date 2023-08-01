@@ -1,1 +1,1 @@
-console.log('Variables');
+console.log('Variables changed by foo');
